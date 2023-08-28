@@ -4,7 +4,6 @@ from tkinter import Tk, Button, messagebox
 root = Tk()
 root.title("Tic-Tac-Toe")
 root.geometry("350x360")
-root.resizable(width = False, height = False)
 
 # Turn system
 turn = 1
